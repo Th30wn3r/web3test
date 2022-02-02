@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x605a1aC45d0924be0e1d4A2D1c091F59D3eD9c3E",
+  "SCAN_LINK": "https://cronos.crypto.org/explorer/address/0x605a1aC45d0924be0e1d4A2D1c091F59D3eD9c3E",
+  "NETWORK": {
+    "NAME": "Cronos",
+    "SYMBOL": "CRO",
+    "ID": 25
+  },
+  "NFT_NAME": "Baby Bud",
+  "SYMBOL": "BUD",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 250000000000000000000,
+  "DISPLAY_COST": 250,
+  "GAS_LIMIT": 290000,
+  "MARKETPLACE": "ebisusbay",
+  "MARKETPLACE_LINK": "https://app.ebisusbay.com/marketplace",
+  "SHOW_BACKGROUND": true
+}
